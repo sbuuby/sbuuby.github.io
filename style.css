@@ -127,7 +127,22 @@ main {
     justify-content: space-around;
 }
    
+.container-onas ul li {
+    color: white;
 
+}
+.container-onas ul {
+    list-style: square;
+    padding: 0;
+}
+
+.container-onas p span{
+    font-weight: bold;
+}
+p.bold {
+    font-weight: bold;
+    text-align: left;
+}
 nav {
     display: flex;
     justify-content: space-between;
